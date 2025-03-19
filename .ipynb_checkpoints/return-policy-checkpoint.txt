@@ -1,0 +1,9 @@
+return_policy:
+Our return policy allows returns within 30 days of purchase.
+for Tablet, the return policy allows return within 10 days of purchase.
+
+order_tracking:
+You can track your order status using your order ID.
+
+product_info:
+Product information includes specifications and features.

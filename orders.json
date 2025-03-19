@@ -1,0 +1,20 @@
+{
+    "123": {
+         "customer_name": "John Doe",
+         "order_date": "2022-01-01",
+         "products": ["Laptop", "Monitor"],
+         "total": 1500.00
+     },
+     "124": {
+         "customer_name": "Jane Doe",
+         "order_date": "2022-01-15",
+         "products": ["Phone", "Keyboard"],
+         "total": 800.00
+     },
+     "125": {
+         "customer_name": "Bob Smith",
+         "order_date": "2024-11-30",
+         "products": ["Tablet", "Laptop"],
+         "total": 2500.00
+     }
+ }
